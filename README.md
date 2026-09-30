@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/araf-headshot-circle.png" width="170" alt="MD. Mahidul Alam Araf" />
+<img src="image/araf-headshot-circle.png" width="170" alt="MD. Mahidul Alam Araf" />
 
 # MD. Mahidul Alam Araf
 
